@@ -1,0 +1,23 @@
+This is and online store management System which was developed by a Group 5 members of UMU IT (Year 3) students of the Course Software Engineering
+
+Download/Clone the System folder "ONLINE-SHOP-MANAGEMENT-SYSTEM" as a Zip folder
+To run it, Extract the zipped folder and copy to this location::: "C/Xampp/htdocts 'ONLINE-SHOP-MANAGEMENT-SYSTEM'"
+Type localhost/ONLINE-SHOP-MANAGEMENT-SYSTEM  on your browser and this will automatically creat a database as specified below.
+Database: "crane_shop".
+Tables: 
+1. users
+2. system settings
+3. Cart
+4. product_list
+and many others.
+
+System Access:
+Admin: 
+1- username => admin Password => admin123
+
+Users.
+1. email => alan@muk.com. Password =>mukwaya004
+2. email => obita@ob.com. => obrien123
+3. email => benjirubah@gmail.com. => rubah12
+
+
