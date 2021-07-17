@@ -1,2 +1,2 @@
-# ONLINE-SHOP-MANAGEMENT-SYSTEM
+# ONLINE-STORE-MANAGEMENT-SYSTEM
 An Ecommerce Software for Online Stores
